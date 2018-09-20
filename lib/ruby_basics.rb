@@ -12,7 +12,7 @@ def argue(str)
   return str
 end
 
-def greeting
+def greeting(name, phrase)
 
 end
 
